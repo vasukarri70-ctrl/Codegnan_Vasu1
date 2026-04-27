@@ -82,5 +82,5 @@ vasu = "this meta character will form a searching pattern as it will take any on
 gk = re.findall("an.+y",vasu)
 nk = re.search("T. +",vasu)
 print(gk)
-print(nk)
+print(nk)   
 '''
